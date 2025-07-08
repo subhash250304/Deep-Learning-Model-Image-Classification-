@@ -21,3 +21,5 @@ After training, I evaluated the model on the test set using accuracy as the perf
 I also visualized sample test images along with their predicted labels to qualitatively assess model performance. This provided an intuitive understanding of how well the model learned to distinguish between digits.
 
 This task deepened my understanding of deep learning, neural network architectures, and PyTorch’s workflow. It also reinforced the importance of hyperparameter tuning and proper evaluation techniques. By completing this task, I gained hands-on experience in implementing, training, and testing a functional image classification model using deep learning frameworks.
+output:
+<img width="309" height="147" alt="Image" src="https://github.com/user-attachments/assets/e70d0a27-cdab-4944-af56-7e48a4ab650b" />
